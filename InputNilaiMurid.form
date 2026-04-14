@@ -1,0 +1,8 @@
+// Form design for Input Nilai Murid
+<form>
+    <label for="studentName">Name:</label><br>
+    <input type="text" id="studentName" name="studentName"><br>
+    <label for="studentScore">Score:</label><br>
+    <input type="number" id="studentScore" name="studentScore"><br>
+    <input type="submit" value="Submit">
+</form>
